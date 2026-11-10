@@ -1,0 +1,8 @@
+{
+  "name": "BUPC Pharmacy Management & Intelligence",
+  "description": "Pharmacy analytics and intelligence platform featuring role-based registration and authentication for Doctors, Nurses, and Patients, inventory management, and warehouse analytics with interactive pie charts.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
